@@ -1,2 +1,2 @@
-Durk V4 Recent Version
-Durk V4 Versão mais recente
+Durk V4.5 Recent Version
+Durk V4.5 Versão mais recente
