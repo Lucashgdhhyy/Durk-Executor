@@ -1,2 +1,2 @@
-Durk V4.5(release) Recent Version
-Durk V4.5(release) Versão mais recente
+Durk V5.0 Recent Version
+Build 8.8
